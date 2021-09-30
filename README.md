@@ -1,17 +1,12 @@
-# react-minimal
+# test-react-media-recorder
 
-React with minimal dependencies and tools.
+A project to test `react-media-recorder` package.
 
-![Build Status](https://github.com/briangershon/react-minimal/workflows/Continuous%20Integration/badge.svg)
+Used `yalc` to install and test `react-media-recorder` package.
 
-* Includes a development environment with:
-  * Support for es6 modules and hot reloading (via Parcel Bundler)
-  * Compile to es5 to run across a wide range of browsers (via Babel)
-  * Unit tests (via Jest)
-  * Lint (via ESLint Airbnb style)
-  * Continuous Integration workflow with Github Actions
+<https://blog.thinknum.com/common-pitfalls-creating-a-custom-npm-package-with-react-and-typescript/>
 
-* Styling with default fonts that look great across operating systems.
+<https://medium.com/@mtfranchetto/the-solution-for-a-working-npm-yarn-link-ddcb4f3c785e>
 
 ## Run Local Dev Server
 
